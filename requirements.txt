@@ -1,0 +1,28 @@
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+torch>=2.0.0
+tensorflow>=2.12.0
+
+# Deep Learning
+transformers>=4.30.0
+huggingface-hub>=0.16.0
+
+# Data Processing
+pillow>=9.5.0
+opencv-python>=4.7.0
+
+# Utilities
+tqdm>=4.65.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Development
+pytest>=7.4.0
+black>=23.3.0
+mypy>=1.4.0
+flake8>=6.0.0
